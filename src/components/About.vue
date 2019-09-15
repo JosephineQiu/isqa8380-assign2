@@ -14,13 +14,9 @@
 </template>
 
 <style scoped>
-body {
-    background-color: lavenderblush;
-    height: 60%;
-}
 .aboutme {
      float: top-center;
-     background-color: ivory;
+     background-color: lavenderblush;
      font-family:'Courier New', Courier, monospace;
      font-size: 18px;
 }
